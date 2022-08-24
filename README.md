@@ -1,2 +1,3 @@
-# button
-Button component for Kvass
+# @kvass/button
+
+Button component for Kvass, for Vue 3

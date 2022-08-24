@@ -1,0 +1,36 @@
+{
+  "name": "@kvass/button",
+  "version": "1.0.0",
+  "description": "Button component for Kvass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test yet\"",
+    "semantic-release": "dotenv semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kvass-App/button.git"
+  },
+  "keywords": [
+    "vue",
+    "button",
+    "kvass"
+  ],
+  "author": "sigve@kvass.no",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kvass-App/button/issues"
+  },
+  "homepage": "https://github.com/Kvass-App/button#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/vue-fontawesome": "^3.0.0-5"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "dotenv-cli": "^5.0.0",
+    "semantic-release": "^19.0.2",
+    "semantic-release-cli": "^5.4.4"
+  }
+}
